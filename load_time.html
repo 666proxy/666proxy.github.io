@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script type='text/javascript'>
+
+           function checkhowlongittakes() {
+    weburl = "<?php echo $_GET['site']; ?>";
+    getLoadTime(weburl, function(time) {
+        document.write('load time for ' + weburl + ' was >' + time + 's');
+    });
+}
+function getLoadTime(url, callback) {
+    var req = new XMLHttpRequest();
+    var start = Date.now();
+    req.onreadystatechange = function(e) {
+        if (this.readyState == 4)
+            callback(Date.now() - start);
+    }
+    req.open('GET', url);
+    req.send();
+}
+        </script>
+</head>
+
+
+
+<body onload="checkhowlongittakes()">
+
+</body>
+
+</html>
