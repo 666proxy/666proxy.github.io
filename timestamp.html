@@ -3,7 +3,10 @@
 <body>
 
 <?php
-date_default_timezone_set("Asia/Bangkok");
+
+
+header("Content-Type: application/json; charset=UTF-8");
+date_default_timezone_set("Asia/Singapore");
 if (!empty($_SERVER['HTTP_CLIENT_IP']))   
   {
     $ip_address = $_SERVER['HTTP_CLIENT_IP'];
@@ -19,9 +22,29 @@ else
     $ip_address = $_SERVER['REMOTE_ADDR'];
   }
 $t=time();
-echo(date("d-m-Y",$t));
-echo "<br>" . $ip_address;
+if ($_GET["get"] === "server-time"){
+
+
+//if (strtoupper(substr(PHP_OS, 0, 3)) === 'WIN') {
+ //   echo 'This is a server using Windows!';
+//} else {
+  //  echo 'This is a server not using Windows!';
+//}
+$myObj->time = date("d-m-Y",$t);
+$myObj->server = "Asia/Singapore";
+$myObj->info = php_uname();
+
+echo json_encode($myObj);
+} elseif ($_GET["get"] === "full"){
+$ar = file_get_contents("http://ip-api.com/json/" . substr($ip_address, 0, strpos($ip_address, ":")) . "?fields=status,message,country,countryCode,region,regionName,city,zip,timezone,isp,org,query");
+
+//echo var_dump(json_decode($ar, true));
+echo str_replace('}', ',', $ar ) . '"info":"'.php_uname().'"}';
+//echo "<br>" . $ip_address;
+}
 ?>
+
+
 
 </body>
 </html>
