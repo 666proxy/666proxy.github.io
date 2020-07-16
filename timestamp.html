@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html>
-<body>
 
 <?php
 
@@ -36,15 +33,11 @@ $myObj->info = php_uname();
 
 echo json_encode($myObj);
 } elseif ($_GET["get"] === "full"){
-$ar = file_get_contents("http://ip-api.com/json/" . substr($ip_address, 0, strpos($ip_address, ":")) . "?fields=status,message,country,countryCode,region,regionName,city,zip,timezone,isp,org,query");
+$ar = file_get_contents("http://ip-api.com/json/" . substr($ip_address, 0, strpos($ip_address, ":")) . "?fields=status,message,country,city,timezone,isp,org,query");
 
 //echo var_dump(json_decode($ar, true));
-echo str_replace('}', ',', $ar ) . '"info":"'.php_uname().'"}';
+echo str_replace('query','ip',str_replace('}', ',', $ar )) . '"info":"'.php_uname().'","server":{"time":"'.date("d-m-Y",$t).'","location":"Asia/Singapore"}}';
 //echo "<br>" . $ip_address;
 }
 ?>
 
-
-
-</body>
-</html>
