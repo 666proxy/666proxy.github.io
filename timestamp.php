@@ -1,12 +1,8 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>API</title>
-</head>
-<body>
+
 <?php
 
 
+header('Access-Control-Allow-Origin: *');  
 header("Content-Type: application/json; charset=UTF-8");
 date_default_timezone_set("Asia/Singapore");
 if (!empty($_SERVER['HTTP_CLIENT_IP']))   
@@ -24,7 +20,7 @@ else
     $ip_address = $_SERVER['REMOTE_ADDR'];
   }
 $t=time();
-if ($_GET["get"] === "server-time"){
+if ($_GET["get"] === "simple"){
 
 
 //if (strtoupper(substr(PHP_OS, 0, 3)) === 'WIN') {
@@ -34,7 +30,8 @@ if ($_GET["get"] === "server-time"){
 //}
 $myObj->time = date("d-m-Y",$t);
 $myObj->server = "Asia/Singapore";
-$myObj->info = php_uname();
+$myObj->info["os"] = php_uname();
+$myObj->info["ip"] = substr($ip_address, 0, strpos($ip_address, ":"));
 
 echo json_encode($myObj);
 } elseif ($_GET["get"] === "full"){
@@ -45,5 +42,4 @@ echo str_replace('query','ip',str_replace('}', ',', $ar )) . '"info":"'.php_unam
 //echo "<br>" . $ip_address;
 }
 ?>
-</body>
-</html>
+
