@@ -20,6 +20,7 @@ else
     $ip_address = $_SERVER['REMOTE_ADDR'];
   }
 $t=time();
+$ipshow = substr($ip_address, 0, strpos($ip_address, ":"));
 if ($_GET["get"] === "simple"){
 
 
@@ -28,7 +29,8 @@ if ($_GET["get"] === "simple"){
 //} else {
   //  echo 'This is a server not using Windows!';
 //}
-$myObj->time = date("d-m-Y",$t);
+
+$myObj->time = "17-02-2020";//date("d-m-Y",$t);
 $myObj->server = "Asia/Singapore";
 $myObj->info["os"] = php_uname();
 $myObj->info["ip"] = substr($ip_address, 0, strpos($ip_address, ":"));
@@ -38,7 +40,7 @@ echo json_encode($myObj);
 $ar = file_get_contents("http://ip-api.com/json/" . substr($ip_address, 0, strpos($ip_address, ":")) . "?fields=status,message,country,city,timezone,isp,org,query");
 
 //echo var_dump(json_decode($ar, true));
-echo str_replace('query','ip',str_replace('}', ',', $ar )) . '"info":"'.php_uname().'","server":{"time":"'.date("d-m-Y",$t).'","location":"Asia/Singapore"}}';
+echo str_replace('query','ip',str_replace('}', ',', $ar )) . '"score":"'. ((strlen($ipshow)-2)*(strlen($ipshow)-4)).'", "info":"'.php_uname().'","server":{"time":"'.date("d-m-Y",$t).'","location":"Asia/Singapore"}}';
 //echo "<br>" . $ip_address;
 }
 ?>
