@@ -1,0 +1,158 @@
+{
+  "initCountry": "gb,de,us,jp,hk,id,sg,cn,au,fr",
+  "Checker": {
+    "advanced": "https://advanced.name/proxy-checker",
+    "checker.ge": "http://www.proxychecker.ge/",
+    "checkerproxy": "https://checkerproxy.net/",
+    "dailyproxylists": "http://www.dailyproxylists.com/index.php/online-proxy-checker",
+    "firexproxy": "https://www.firexproxy.com/en/proxy-checker",
+    "gogetproxy": "https://gogetproxy.com/en/checker",
+    "hidemy": "https://hidemy.name/en/proxy-checker/",
+    "openinternetaccess": "https://openinternetaccess.com/Proxy-Checker",
+    "proxiesforchecker": "https://proxiesforchecker.com",
+    "proxy6": "https://proxy6.net/en/checker",
+    "proxyapi": "https://proxyapi.org/",
+    "proxy-base": "http://tools.proxy-base.com/proxy_tools/proxy_checker/",
+    "proxy-checker": "https://proxy-checker.net/en/",
+    "proxy-daily": "https://proxy-daily.com/proxychecker.php",
+    "proxy-list": "https://free-proxy-list.com/proxy-checker.html",
+    "proxynova": "https://www.proxynova.com/online-proxy-checker/",
+    "proxy-sale": "https://free.proxy-sale.com/en/proxy-checker/",
+    "proxyscan": "https://www.proxyscan.io/proxychecker",
+    "proxyservers": "https://proxyservers.pro/proxy/bulk-check",
+    "seotoolnetwork": "https://seotoolnetwork.com/bulk-proxy-checker/",
+    "sockslist": "https://sockslist.net/check",
+    "testmyproxies": "https://testmyproxies.com/",
+    "xnode": "https://xnode.org/page/Proxy_Checker"
+  },
+  "Proxy": {
+    "advanced": "https://advanced.name/freeproxy",
+    "awmproxy": "https://awmproxy.net/freeproxy.php",
+    "hidemy": "https://hidemy.name/en/proxy-list/",
+    "hide-my-ip": "https://www.hide-my-ip.com/proxylist.shtml",
+    "httptunnel": "http://www.httptunnel.ge/ProxyListForFree.aspx",
+    "proxy.cz-1": "http://free-proxy.cz/en/",
+    "proxy.cz-2": "http://free-proxy.cz/en/web-proxylist/",
+    "proxy11": "http://proxy11.com/free-proxy",
+    "proxylist4all-1": "https://www.proxylist4all.com/free-proxy-list/free-anonymous-proxy-list",
+    "proxylist4all-2": "https://www.proxylist4all.com/free-proxy-list/free-elite-proxy-list",
+    "proxylist4all-3": "https://www.proxylist4all.com/free-proxy-list/free-transparent-proxy-list",
+    "proxylistfree-1": "https://proxylistfree.net/All-free-proxy-list",
+    "proxylistfree-2": "https://proxylistfree.net/Clean-free-proxy-list",
+    "proxy-sale": "https://free.proxy-sale.com/en/",
+    "proxyservers": "https://proxyservers.pro/proxy/",
+    "sockslist-1": "https://sockslist.net/list/proxy-socks-4-list/",
+    "sockslist-2": "https://sockslist.net/list/proxy-socks-5-list/",
+    "sockslist-3": "https://sockslist.net/proxy/server-socks-hide-ip-address/",
+    "spys": "http://spys.one/en/"
+  },
+  "Tor": {
+    "4everproxy": "https://www.4everproxy.com/tor-proxy",
+    "openinternetaccess": "https://openinternetaccess.com/Tor-Proxy",
+    "weboproxy": "https://weboproxy.com/"
+  },
+  "CountryISO": [
+    {
+      "Code": "all",
+      "Country name": "all"
+    },
+    {
+      "Code": "GB",
+      "Country name": "United Kingdom",
+      "Year": 1974,
+      "ccTLD": ".gb\n (.uk)",
+      "ISO 3166-2": "ISO 3166-2:GB",
+      "Notes": "Code taken from Great Britain (from official name: United Kingdom of Great Britain and Northern Ireland)[17]\n .uk is the primary ccTLD of the United Kingdom instead of .gb (see code UK, which is exceptionally reserved)"
+    },
+    {
+      "Code": "DE",
+      "Country name": "Germany",
+      "Year": 1974,
+      "ccTLD": ".de",
+      "ISO 3166-2": "ISO 3166-2:DE",
+      "Notes": "Code taken from name in German: Deutschland\n Code used for West Germany before 1990 (previous ISO country name: Germany, Federal Republic of)"
+    },
+    {
+      "Code": "US",
+      "Country name": "United States of America",
+      "Year": 1974,
+      "ccTLD": ".us",
+      "ISO 3166-2": "ISO 3166-2:US",
+      "Notes": ""
+    },
+    {
+      "Code": "SG",
+      "Country name": "Singapore",
+      "Year": 1974,
+      "ccTLD": ".sg",
+      "ISO 3166-2": "ISO 3166-2:SG",
+      "Notes": ""
+    },
+    {
+      "Code": "ID",
+      "Country name": "Indonesia",
+      "Year": 1974,
+      "ccTLD": ".id",
+      "ISO 3166-2": "ISO 3166-2:ID",
+      "Notes": ""
+    },
+    {
+      "Code": "CN",
+      "Country name": "China",
+      "Year": 1974,
+      "ccTLD": ".cn",
+      "ISO 3166-2": "ISO 3166-2:CN",
+      "Notes": ""
+    },
+    {
+      "Code": "HK",
+      "Country name": "Hong Kong",
+      "Year": 1974,
+      "ccTLD": ".hk",
+      "ISO 3166-2": "ISO 3166-2:HK",
+      "Notes": ""
+    },
+    {
+      "Code": "JP",
+      "Country name": "Japan",
+      "Year": 1974,
+      "ccTLD": ".jp",
+      "ISO 3166-2": "ISO 3166-2:JP",
+      "Notes": ""
+    },
+    {
+      "Code": "AU",
+      "Country name": "Australia",
+      "Year": 1974,
+      "ccTLD": ".au",
+      "ISO 3166-2": "ISO 3166-2:AU",
+      "Notes": "Includes the Ashmore and Cartier Islands and the Coral Sea Islands"
+    },
+    {
+      "Code": "FR",
+      "Country name": "France",
+      "Year": 1974,
+      "ccTLD": ".fr",
+      "ISO 3166-2": "ISO 3166-2:FR",
+      "Notes": "Includes Clipperton Island"
+    }
+  ],
+  "Menu": {
+    "Account": [
+      "Dashboard",
+      "Logout"
+    ],
+    "Help": [
+      "FAQ",
+      "Cookie Policy",
+      "Disclaimer",
+      "Privacy Policy",
+      "Terms and conditions"
+    ],
+    "Product": [
+      "Proxy Checker",
+      "Daily Proxy",
+      "Get Proxy"
+    ]
+  }
+}

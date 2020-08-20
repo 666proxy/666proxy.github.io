@@ -1,0 +1,1998 @@
+ "CountryISO":[
+ {
+   "Code": "all",
+   "Country name": "all"
+ },
+ {
+   "Code": "AD",
+   "Country name": "Andorra",
+   "Year": 1974,
+   "ccTLD": ".ad",
+   "ISO 3166-2": "ISO 3166-2:AD",
+   "Notes": ""
+ },
+ {
+   "Code": "AE",
+   "Country name": "United Arab Emirates",
+   "Year": 1974,
+   "ccTLD": ".ae",
+   "ISO 3166-2": "ISO 3166-2:AE",
+   "Notes": ""
+ },
+ {
+   "Code": "AF",
+   "Country name": "Afghanistan",
+   "Year": 1974,
+   "ccTLD": ".af",
+   "ISO 3166-2": "ISO 3166-2:AF",
+   "Notes": ""
+ },
+ {
+   "Code": "AG",
+   "Country name": "Antigua and Barbuda",
+   "Year": 1974,
+   "ccTLD": ".ag",
+   "ISO 3166-2": "ISO 3166-2:AG",
+   "Notes": ""
+ },
+ {
+   "Code": "AI",
+   "Country name": "Anguilla",
+   "Year": 1985,
+   "ccTLD": ".ai",
+   "ISO 3166-2": "ISO 3166-2:AI",
+   "Notes": "AI previously represented French Afars and Issas"
+ },
+ {
+   "Code": "AL",
+   "Country name": "Albania",
+   "Year": 1974,
+   "ccTLD": ".al",
+   "ISO 3166-2": "ISO 3166-2:AL",
+   "Notes": ""
+ },
+ {
+   "Code": "AM",
+   "Country name": "Armenia",
+   "Year": 1992,
+   "ccTLD": ".am",
+   "ISO 3166-2": "ISO 3166-2:AM",
+   "Notes": ""
+ },
+ {
+   "Code": "AO",
+   "Country name": "Angola",
+   "Year": 1974,
+   "ccTLD": ".ao",
+   "ISO 3166-2": "ISO 3166-2:AO",
+   "Notes": ""
+ },
+ {
+   "Code": "AQ",
+   "Country name": "Antarctica",
+   "Year": 1974,
+   "ccTLD": ".aq",
+   "ISO 3166-2": "ISO 3166-2:AQ",
+   "Notes": "Covers the territories south of 60° south latitude\n Code taken from name in French: Antarctique"
+ },
+ {
+   "Code": "AR",
+   "Country name": "Argentina",
+   "Year": 1974,
+   "ccTLD": ".ar",
+   "ISO 3166-2": "ISO 3166-2:AR",
+   "Notes": ""
+ },
+ {
+   "Code": "AS",
+   "Country name": "American Samoa",
+   "Year": 1974,
+   "ccTLD": ".as",
+   "ISO 3166-2": "ISO 3166-2:AS",
+   "Notes": ""
+ },
+ {
+   "Code": "AT",
+   "Country name": "Austria",
+   "Year": 1974,
+   "ccTLD": ".at",
+   "ISO 3166-2": "ISO 3166-2:AT",
+   "Notes": ""
+ },
+ {
+   "Code": "AU",
+   "Country name": "Australia",
+   "Year": 1974,
+   "ccTLD": ".au",
+   "ISO 3166-2": "ISO 3166-2:AU",
+   "Notes": "Includes the Ashmore and Cartier Islands and the Coral Sea Islands"
+ },
+ {
+   "Code": "AW",
+   "Country name": "Aruba",
+   "Year": 1986,
+   "ccTLD": ".aw",
+   "ISO 3166-2": "ISO 3166-2:AW",
+   "Notes": ""
+ },
+ {
+   "Code": "AX",
+   "Country name": "Åland Islands",
+   "Year": 2004,
+   "ccTLD": ".ax",
+   "ISO 3166-2": "ISO 3166-2:AX",
+   "Notes": "An autonomous province of Finland"
+ },
+ {
+   "Code": "AZ",
+   "Country name": "Azerbaijan",
+   "Year": 1992,
+   "ccTLD": ".az",
+   "ISO 3166-2": "ISO 3166-2:AZ",
+   "Notes": ""
+ },
+ {
+   "Code": "BA",
+   "Country name": "Bosnia and Herzegovina",
+   "Year": 1992,
+   "ccTLD": ".ba",
+   "ISO 3166-2": "ISO 3166-2:BA",
+   "Notes": ""
+ },
+ {
+   "Code": "BB",
+   "Country name": "Barbados",
+   "Year": 1974,
+   "ccTLD": ".bb",
+   "ISO 3166-2": "ISO 3166-2:BB",
+   "Notes": ""
+ },
+ {
+   "Code": "BD",
+   "Country name": "Bangladesh",
+   "Year": 1974,
+   "ccTLD": ".bd",
+   "ISO 3166-2": "ISO 3166-2:BD",
+   "Notes": ""
+ },
+ {
+   "Code": "BE",
+   "Country name": "Belgium",
+   "Year": 1974,
+   "ccTLD": ".be",
+   "ISO 3166-2": "ISO 3166-2:BE",
+   "Notes": ""
+ },
+ {
+   "Code": "BF",
+   "Country name": "Burkina Faso",
+   "Year": 1984,
+   "ccTLD": ".bf",
+   "ISO 3166-2": "ISO 3166-2:BF",
+   "Notes": "Name changed from Upper Volta (HV)"
+ },
+ {
+   "Code": "BG",
+   "Country name": "Bulgaria",
+   "Year": 1974,
+   "ccTLD": ".bg",
+   "ISO 3166-2": "ISO 3166-2:BG",
+   "Notes": ""
+ },
+ {
+   "Code": "BH",
+   "Country name": "Bahrain",
+   "Year": 1974,
+   "ccTLD": ".bh",
+   "ISO 3166-2": "ISO 3166-2:BH",
+   "Notes": ""
+ },
+ {
+   "Code": "BI",
+   "Country name": "Burundi",
+   "Year": 1974,
+   "ccTLD": ".bi",
+   "ISO 3166-2": "ISO 3166-2:BI",
+   "Notes": ""
+ },
+ {
+   "Code": "BJ",
+   "Country name": "Benin",
+   "Year": 1977,
+   "ccTLD": ".bj",
+   "ISO 3166-2": "ISO 3166-2:BJ",
+   "Notes": "Name changed from Dahomey (DY)"
+ },
+ {
+   "Code": "BL",
+   "Country name": "Saint Barthélemy",
+   "Year": 2007,
+   "ccTLD": ".bl",
+   "ISO 3166-2": "ISO 3166-2:BL",
+   "Notes": ""
+ },
+ {
+   "Code": "BM",
+   "Country name": "Bermuda",
+   "Year": 1974,
+   "ccTLD": ".bm",
+   "ISO 3166-2": "ISO 3166-2:BM",
+   "Notes": ""
+ },
+ {
+   "Code": "BN",
+   "Country name": "Brunei Darussalam",
+   "Year": 1974,
+   "ccTLD": ".bn",
+   "ISO 3166-2": "ISO 3166-2:BN",
+   "Notes": "ISO country name follows UN designation (common name: Brunei)"
+ },
+ {
+   "Code": "BO",
+   "Country name": "Bolivia",
+   "Year": 1974,
+   "ccTLD": ".bo",
+   "ISO 3166-2": "ISO 3166-2:BO",
+   "Notes": "ISO country name follows UN designation (common name and previous ISO country name: Bolivia)"
+ },
+ {
+   "Code": "BQ",
+   "Country name": "Bonaire",
+   "Year": 2010,
+   "ccTLD": ".bq",
+   "ISO 3166-2": "ISO 3166-2:BQ",
+   "Notes": "Consists of three Caribbean \"special municipalities\", which are part of the Netherlands proper: Bonaire, Sint Eustatius, and Saba (the BES Islands)\n Previous ISO country name: Bonaire, Saint Eustatius and Saba\n BQ previously represented British Antarctic Territory"
+ },
+ {
+   "Code": "BR",
+   "Country name": "Brazil",
+   "Year": 1974,
+   "ccTLD": ".br",
+   "ISO 3166-2": "ISO 3166-2:BR",
+   "Notes": ""
+ },
+ {
+   "Code": "BS",
+   "Country name": "Bahamas",
+   "Year": 1974,
+   "ccTLD": ".bs",
+   "ISO 3166-2": "ISO 3166-2:BS",
+   "Notes": ""
+ },
+ {
+   "Code": "BT",
+   "Country name": "Bhutan",
+   "Year": 1974,
+   "ccTLD": ".bt",
+   "ISO 3166-2": "ISO 3166-2:BT",
+   "Notes": ""
+ },
+ {
+   "Code": "BV",
+   "Country name": "Bouvet Island",
+   "Year": 1974,
+   "ccTLD": ".bv",
+   "ISO 3166-2": "ISO 3166-2:BV",
+   "Notes": "Belongs to Norway"
+ },
+ {
+   "Code": "BW",
+   "Country name": "Botswana",
+   "Year": 1974,
+   "ccTLD": ".bw",
+   "ISO 3166-2": "ISO 3166-2:BW",
+   "Notes": ""
+ },
+ {
+   "Code": "BY",
+   "Country name": "Belarus",
+   "Year": 1974,
+   "ccTLD": ".by",
+   "ISO 3166-2": "ISO 3166-2:BY",
+   "Notes": "Code taken from previous ISO country name: Byelorussian SSR (now assigned ISO 3166-3 code BYAA)\n Code assigned as the country was already a UN member since 1945[14]"
+ },
+ {
+   "Code": "BZ",
+   "Country name": "Belize",
+   "Year": 1974,
+   "ccTLD": ".bz",
+   "ISO 3166-2": "ISO 3166-2:BZ",
+   "Notes": ""
+ },
+ {
+   "Code": "CA",
+   "Country name": "Canada",
+   "Year": 1974,
+   "ccTLD": ".ca",
+   "ISO 3166-2": "ISO 3166-2:CA",
+   "Notes": ""
+ },
+ {
+   "Code": "CC",
+   "Country name": "Cocos (Keeling) Islands",
+   "Year": 1974,
+   "ccTLD": ".cc",
+   "ISO 3166-2": "ISO 3166-2:CC",
+   "Notes": ""
+ },
+ {
+   "Code": "CD",
+   "Country name": "Congo, Democratic",
+   "Year": 1997,
+   "ccTLD": ".cd",
+   "ISO 3166-2": "ISO 3166-2:CD",
+   "Notes": "Name changed from Zaire (ZR)"
+ },
+ {
+   "Code": "CF",
+   "Country name": "Central African Republic",
+   "Year": 1974,
+   "ccTLD": ".cf",
+   "ISO 3166-2": "ISO 3166-2:CF",
+   "Notes": ""
+ },
+ {
+   "Code": "CG",
+   "Country name": "Congo",
+   "Year": 1974,
+   "ccTLD": ".cg",
+   "ISO 3166-2": "ISO 3166-2:CG",
+   "Notes": ""
+ },
+ {
+   "Code": "CH",
+   "Country name": "Switzerland",
+   "Year": 1974,
+   "ccTLD": ".ch",
+   "ISO 3166-2": "ISO 3166-2:CH",
+   "Notes": "Code taken from name in Latin: Confoederatio Helvetica"
+ },
+ {
+   "Code": "CI",
+   "Country name": "Ivory Coast",
+   "Year": 1974,
+   "ccTLD": ".ci",
+   "ISO 3166-2": "ISO 3166-2:CI",
+   "Notes": "ISO country name follows UN designation (common name: Ivory Coast)"
+ },
+ {
+   "Code": "CK",
+   "Country name": "Cook Islands",
+   "Year": 1974,
+   "ccTLD": ".ck",
+   "ISO 3166-2": "ISO 3166-2:CK",
+   "Notes": ""
+ },
+ {
+   "Code": "CL",
+   "Country name": "Chile",
+   "Year": 1974,
+   "ccTLD": ".cl",
+   "ISO 3166-2": "ISO 3166-2:CL",
+   "Notes": ""
+ },
+ {
+   "Code": "CM",
+   "Country name": "Cameroon",
+   "Year": 1974,
+   "ccTLD": ".cm",
+   "ISO 3166-2": "ISO 3166-2:CM",
+   "Notes": ""
+ },
+ {
+   "Code": "CN",
+   "Country name": "China",
+   "Year": 1974,
+   "ccTLD": ".cn",
+   "ISO 3166-2": "ISO 3166-2:CN",
+   "Notes": ""
+ },
+ {
+   "Code": "CO",
+   "Country name": "Colombia",
+   "Year": 1974,
+   "ccTLD": ".co",
+   "ISO 3166-2": "ISO 3166-2:CO",
+   "Notes": ""
+ },
+ {
+   "Code": "CR",
+   "Country name": "Costa Rica",
+   "Year": 1974,
+   "ccTLD": ".cr",
+   "ISO 3166-2": "ISO 3166-2:CR",
+   "Notes": ""
+ },
+ {
+   "Code": "CU",
+   "Country name": "Cuba",
+   "Year": 1974,
+   "ccTLD": ".cu",
+   "ISO 3166-2": "ISO 3166-2:CU",
+   "Notes": ""
+ },
+ {
+   "Code": "CV",
+   "Country name": "Cabo Verde",
+   "Year": 1974,
+   "ccTLD": ".cv",
+   "ISO 3166-2": "ISO 3166-2:CV",
+   "Notes": "ISO country name follows UN designation (common name and previous ISO country name: Cape Verde)"
+ },
+ {
+   "Code": "CW",
+   "Country name": "Curaçao",
+   "Year": 2010,
+   "ccTLD": ".cw",
+   "ISO 3166-2": "ISO 3166-2:CW",
+   "Notes": ""
+ },
+ {
+   "Code": "CX",
+   "Country name": "Christmas Island",
+   "Year": 1974,
+   "ccTLD": ".cx",
+   "ISO 3166-2": "ISO 3166-2:CX",
+   "Notes": ""
+ },
+ {
+   "Code": "CY",
+   "Country name": "Cyprus",
+   "Year": 1974,
+   "ccTLD": ".cy",
+   "ISO 3166-2": "ISO 3166-2:CY",
+   "Notes": ""
+ },
+ {
+   "Code": "CZ",
+   "Country name": "Czechia",
+   "Year": 1993,
+   "ccTLD": ".cz",
+   "ISO 3166-2": "ISO 3166-2:CZ",
+   "Notes": "Previous ISO country name: Czech Republic"
+ },
+ {
+   "Code": "DE",
+   "Country name": "Germany",
+   "Year": 1974,
+   "ccTLD": ".de",
+   "ISO 3166-2": "ISO 3166-2:DE",
+   "Notes": "Code taken from name in German: Deutschland\n Code used for West Germany before 1990 (previous ISO country name: Germany, Federal Republic of)"
+ },
+ {
+   "Code": "DJ",
+   "Country name": "Djibouti",
+   "Year": 1977,
+   "ccTLD": ".dj",
+   "ISO 3166-2": "ISO 3166-2:DJ",
+   "Notes": "Name changed from French Afars and Issas (AI)"
+ },
+ {
+   "Code": "DK",
+   "Country name": "Denmark",
+   "Year": 1974,
+   "ccTLD": ".dk",
+   "ISO 3166-2": "ISO 3166-2:DK",
+   "Notes": ""
+ },
+ {
+   "Code": "DM",
+   "Country name": "Dominica",
+   "Year": 1974,
+   "ccTLD": ".dm",
+   "ISO 3166-2": "ISO 3166-2:DM",
+   "Notes": ""
+ },
+ {
+   "Code": "DO",
+   "Country name": "Dominican Republic",
+   "Year": 1974,
+   "ccTLD": ".do",
+   "ISO 3166-2": "ISO 3166-2:DO",
+   "Notes": ""
+ },
+ {
+   "Code": "DZ",
+   "Country name": "Algeria",
+   "Year": 1974,
+   "ccTLD": ".dz",
+   "ISO 3166-2": "ISO 3166-2:DZ",
+   "Notes": "Code taken from name in Arabic الجزائر al-Djazā'ir, Algerian Arabic الدزاير al-Dzāyīr, or Berber ⴷⵣⴰⵢⵔ Dzayer"
+ },
+ {
+   "Code": "EC",
+   "Country name": "Ecuador",
+   "Year": 1974,
+   "ccTLD": ".ec",
+   "ISO 3166-2": "ISO 3166-2:EC",
+   "Notes": ""
+ },
+ {
+   "Code": "EE",
+   "Country name": "Estonia",
+   "Year": 1992,
+   "ccTLD": ".ee",
+   "ISO 3166-2": "ISO 3166-2:EE",
+   "Notes": "Code taken from name in Estonian: Eesti"
+ },
+ {
+   "Code": "EG",
+   "Country name": "Egypt",
+   "Year": 1974,
+   "ccTLD": ".eg",
+   "ISO 3166-2": "ISO 3166-2:EG",
+   "Notes": ""
+ },
+ {
+   "Code": "EH",
+   "Country name": "Western Sahara",
+   "Year": 1974,
+   "ccTLD": "",
+   "ISO 3166-2": "ISO 3166-2:EH",
+   "Notes": "Previous ISO country name: Spanish Sahara (code taken from name in Spanish: Sahara español)\n.eh ccTLD has not been implemented.[15]"
+ },
+ {
+   "Code": "ER",
+   "Country name": "Eritrea",
+   "Year": 1993,
+   "ccTLD": ".er",
+   "ISO 3166-2": "ISO 3166-2:ER",
+   "Notes": ""
+ },
+ {
+   "Code": "ES",
+   "Country name": "Spain",
+   "Year": 1974,
+   "ccTLD": ".es",
+   "ISO 3166-2": "ISO 3166-2:ES",
+   "Notes": "Code taken from name in Spanish: España"
+ },
+ {
+   "Code": "ET",
+   "Country name": "Ethiopia",
+   "Year": 1974,
+   "ccTLD": ".et",
+   "ISO 3166-2": "ISO 3166-2:ET",
+   "Notes": ""
+ },
+ {
+   "Code": "FI",
+   "Country name": "Finland",
+   "Year": 1974,
+   "ccTLD": ".fi",
+   "ISO 3166-2": "ISO 3166-2:FI",
+   "Notes": ""
+ },
+ {
+   "Code": "FJ",
+   "Country name": "Fiji",
+   "Year": 1974,
+   "ccTLD": ".fj",
+   "ISO 3166-2": "ISO 3166-2:FJ",
+   "Notes": ""
+ },
+ {
+   "Code": "FK",
+   "Country name": "Falkland Islands (Malvinas)",
+   "Year": 1974,
+   "ccTLD": ".fk",
+   "ISO 3166-2": "ISO 3166-2:FK",
+   "Notes": "ISO country name follows UN designation due to the Falkland Islands sovereignty dispute (local common name: Falkland Islands)[16]"
+ },
+ {
+   "Code": "FM",
+   "Country name": "Micronesia",
+   "Year": 1986,
+   "ccTLD": ".fm",
+   "ISO 3166-2": "ISO 3166-2:FM",
+   "Notes": "Previous ISO country name: Micronesia"
+ },
+ {
+   "Code": "FO",
+   "Country name": "Faroe Islands",
+   "Year": 1974,
+   "ccTLD": ".fo",
+   "ISO 3166-2": "ISO 3166-2:FO",
+   "Notes": "Code taken from name in Faroese: Føroyar"
+ },
+ {
+   "Code": "FR",
+   "Country name": "France",
+   "Year": 1974,
+   "ccTLD": ".fr",
+   "ISO 3166-2": "ISO 3166-2:FR",
+   "Notes": "Includes Clipperton Island"
+ },
+ {
+   "Code": "GA",
+   "Country name": "Gabon",
+   "Year": 1974,
+   "ccTLD": ".ga",
+   "ISO 3166-2": "ISO 3166-2:GA",
+   "Notes": ""
+ },
+ {
+   "Code": "GB",
+   "Country name": "United Kingdom",
+   "Year": 1974,
+   "ccTLD": ".gb\n (.uk)",
+   "ISO 3166-2": "ISO 3166-2:GB",
+   "Notes": "Code taken from Great Britain (from official name: United Kingdom of Great Britain and Northern Ireland)[17]\n .uk is the primary ccTLD of the United Kingdom instead of .gb (see code UK, which is exceptionally reserved)"
+ },
+ {
+   "Code": "GD",
+   "Country name": "Grenada",
+   "Year": 1974,
+   "ccTLD": ".gd",
+   "ISO 3166-2": "ISO 3166-2:GD",
+   "Notes": ""
+ },
+ {
+   "Code": "GE",
+   "Country name": "Georgia",
+   "Year": 1992,
+   "ccTLD": ".ge",
+   "ISO 3166-2": "ISO 3166-2:GE",
+   "Notes": "GE previously represented Gilbert and Ellice Islands"
+ },
+ {
+   "Code": "GF",
+   "Country name": "French Guiana",
+   "Year": 1974,
+   "ccTLD": ".gf",
+   "ISO 3166-2": "ISO 3166-2:GF",
+   "Notes": "Code taken from name in French: Guyane française"
+ },
+ {
+   "Code": "GG",
+   "Country name": "Guernsey",
+   "Year": 2006,
+   "ccTLD": ".gg",
+   "ISO 3166-2": "ISO 3166-2:GG",
+   "Notes": "a British Crown dependency"
+ },
+ {
+   "Code": "GH",
+   "Country name": "Ghana",
+   "Year": 1974,
+   "ccTLD": ".gh",
+   "ISO 3166-2": "ISO 3166-2:GH",
+   "Notes": ""
+ },
+ {
+   "Code": "GI",
+   "Country name": "Gibraltar",
+   "Year": 1974,
+   "ccTLD": ".gi",
+   "ISO 3166-2": "ISO 3166-2:GI",
+   "Notes": ""
+ },
+ {
+   "Code": "GL",
+   "Country name": "Greenland",
+   "Year": 1974,
+   "ccTLD": ".gl",
+   "ISO 3166-2": "ISO 3166-2:GL",
+   "Notes": ""
+ },
+ {
+   "Code": "GM",
+   "Country name": "Gambia",
+   "Year": 1974,
+   "ccTLD": ".gm",
+   "ISO 3166-2": "ISO 3166-2:GM",
+   "Notes": ""
+ },
+ {
+   "Code": "GN",
+   "Country name": "Guinea",
+   "Year": 1974,
+   "ccTLD": ".gn",
+   "ISO 3166-2": "ISO 3166-2:GN",
+   "Notes": ""
+ },
+ {
+   "Code": "GP",
+   "Country name": "Guadeloupe",
+   "Year": 1974,
+   "ccTLD": ".gp",
+   "ISO 3166-2": "ISO 3166-2:GP",
+   "Notes": ""
+ },
+ {
+   "Code": "GQ",
+   "Country name": "Equatorial Guinea",
+   "Year": 1974,
+   "ccTLD": ".gq",
+   "ISO 3166-2": "ISO 3166-2:GQ",
+   "Notes": "Code taken from name in French: Guinée équatoriale"
+ },
+ {
+   "Code": "GR",
+   "Country name": "Greece",
+   "Year": 1974,
+   "ccTLD": ".gr",
+   "ISO 3166-2": "ISO 3166-2:GR",
+   "Notes": ""
+ },
+ {
+   "Code": "GS",
+   "Country name": "South Georgia",
+   "Year": 1993,
+   "ccTLD": ".gs",
+   "ISO 3166-2": "ISO 3166-2:GS",
+   "Notes": ""
+ },
+ {
+   "Code": "GT",
+   "Country name": "Guatemala",
+   "Year": 1974,
+   "ccTLD": ".gt",
+   "ISO 3166-2": "ISO 3166-2:GT",
+   "Notes": ""
+ },
+ {
+   "Code": "GU",
+   "Country name": "Guam",
+   "Year": 1974,
+   "ccTLD": ".gu",
+   "ISO 3166-2": "ISO 3166-2:GU",
+   "Notes": ""
+ },
+ {
+   "Code": "GW",
+   "Country name": "Guinea-Bissau",
+   "Year": 1974,
+   "ccTLD": ".gw",
+   "ISO 3166-2": "ISO 3166-2:GW",
+   "Notes": ""
+ },
+ {
+   "Code": "GY",
+   "Country name": "Guyana",
+   "Year": 1974,
+   "ccTLD": ".gy",
+   "ISO 3166-2": "ISO 3166-2:GY",
+   "Notes": ""
+ },
+ {
+   "Code": "HK",
+   "Country name": "Hong Kong",
+   "Year": 1974,
+   "ccTLD": ".hk",
+   "ISO 3166-2": "ISO 3166-2:HK",
+   "Notes": ""
+ },
+ {
+   "Code": "HM",
+   "Country name": "Heard Island",
+   "Year": 1974,
+   "ccTLD": ".hm",
+   "ISO 3166-2": "ISO 3166-2:HM",
+   "Notes": ""
+ },
+ {
+   "Code": "HN",
+   "Country name": "Honduras",
+   "Year": 1974,
+   "ccTLD": ".hn",
+   "ISO 3166-2": "ISO 3166-2:HN",
+   "Notes": ""
+ },
+ {
+   "Code": "HR",
+   "Country name": "Croatia",
+   "Year": 1992,
+   "ccTLD": ".hr",
+   "ISO 3166-2": "ISO 3166-2:HR",
+   "Notes": "Code taken from name in Croatian: Hrvatska"
+ },
+ {
+   "Code": "HT",
+   "Country name": "Haiti",
+   "Year": 1974,
+   "ccTLD": ".ht",
+   "ISO 3166-2": "ISO 3166-2:HT",
+   "Notes": ""
+ },
+ {
+   "Code": "HU",
+   "Country name": "Hungary",
+   "Year": 1974,
+   "ccTLD": ".hu",
+   "ISO 3166-2": "ISO 3166-2:HU",
+   "Notes": ""
+ },
+ {
+   "Code": "ID",
+   "Country name": "Indonesia",
+   "Year": 1974,
+   "ccTLD": ".id",
+   "ISO 3166-2": "ISO 3166-2:ID",
+   "Notes": ""
+ },
+ {
+   "Code": "IE",
+   "Country name": "Ireland",
+   "Year": 1974,
+   "ccTLD": ".ie",
+   "ISO 3166-2": "ISO 3166-2:IE",
+   "Notes": ""
+ },
+ {
+   "Code": "IL",
+   "Country name": "Israel",
+   "Year": 1974,
+   "ccTLD": ".il",
+   "ISO 3166-2": "ISO 3166-2:IL",
+   "Notes": ""
+ },
+ {
+   "Code": "IM",
+   "Country name": "Isle of Man",
+   "Year": 2006,
+   "ccTLD": ".im",
+   "ISO 3166-2": "ISO 3166-2:IM",
+   "Notes": "a British Crown dependency"
+ },
+ {
+   "Code": "IN",
+   "Country name": "India",
+   "Year": 1974,
+   "ccTLD": ".in",
+   "ISO 3166-2": "ISO 3166-2:IN",
+   "Notes": ""
+ },
+ {
+   "Code": "IO",
+   "Country name": "British Indian Ocean Territory",
+   "Year": 1974,
+   "ccTLD": ".io",
+   "ISO 3166-2": "ISO 3166-2:IO",
+   "Notes": ""
+ },
+ {
+   "Code": "IQ",
+   "Country name": "Iraq",
+   "Year": 1974,
+   "ccTLD": ".iq",
+   "ISO 3166-2": "ISO 3166-2:IQ",
+   "Notes": ""
+ },
+ {
+   "Code": "IR",
+   "Country name": "Iran (Islamic Republic of)",
+   "Year": 1974,
+   "ccTLD": ".ir",
+   "ISO 3166-2": "ISO 3166-2:IR",
+   "Notes": "ISO country name follows UN designation (common name: Iran)"
+ },
+ {
+   "Code": "IS",
+   "Country name": "Iceland",
+   "Year": 1974,
+   "ccTLD": ".is",
+   "ISO 3166-2": "ISO 3166-2:IS",
+   "Notes": "Code taken from name in Icelandic: Ísland"
+ },
+ {
+   "Code": "IT",
+   "Country name": "Italy",
+   "Year": 1974,
+   "ccTLD": ".it",
+   "ISO 3166-2": "ISO 3166-2:IT",
+   "Notes": ""
+ },
+ {
+   "Code": "JE",
+   "Country name": "Jersey",
+   "Year": 2006,
+   "ccTLD": ".je",
+   "ISO 3166-2": "ISO 3166-2:JE",
+   "Notes": "a British Crown dependency"
+ },
+ {
+   "Code": "JM",
+   "Country name": "Jamaica",
+   "Year": 1974,
+   "ccTLD": ".jm",
+   "ISO 3166-2": "ISO 3166-2:JM",
+   "Notes": ""
+ },
+ {
+   "Code": "JO",
+   "Country name": "Jordan",
+   "Year": 1974,
+   "ccTLD": ".jo",
+   "ISO 3166-2": "ISO 3166-2:JO",
+   "Notes": ""
+ },
+ {
+   "Code": "JP",
+   "Country name": "Japan",
+   "Year": 1974,
+   "ccTLD": ".jp",
+   "ISO 3166-2": "ISO 3166-2:JP",
+   "Notes": ""
+ },
+ {
+   "Code": "KE",
+   "Country name": "Kenya",
+   "Year": 1974,
+   "ccTLD": ".ke",
+   "ISO 3166-2": "ISO 3166-2:KE",
+   "Notes": ""
+ },
+ {
+   "Code": "KG",
+   "Country name": "Kyrgyzstan",
+   "Year": 1992,
+   "ccTLD": ".kg",
+   "ISO 3166-2": "ISO 3166-2:KG",
+   "Notes": ""
+ },
+ {
+   "Code": "KH",
+   "Country name": "Cambodia",
+   "Year": 1974,
+   "ccTLD": ".kh",
+   "ISO 3166-2": "ISO 3166-2:KH",
+   "Notes": "Code taken from former name: Khmer Republic\n Previous ISO country name: Kampuchea"
+ },
+ {
+   "Code": "KI",
+   "Country name": "Kiribati",
+   "Year": 1979,
+   "ccTLD": ".ki",
+   "ISO 3166-2": "ISO 3166-2:KI",
+   "Notes": ""
+ },
+ {
+   "Code": "KM",
+   "Country name": "Comoros",
+   "Year": 1974,
+   "ccTLD": ".km",
+   "ISO 3166-2": "ISO 3166-2:KM",
+   "Notes": "Code taken from name in Comorian: Komori"
+ },
+ {
+   "Code": "KN",
+   "Country name": "Saint Kitts and Nevis",
+   "Year": 1974,
+   "ccTLD": ".kn",
+   "ISO 3166-2": "ISO 3166-2:KN",
+   "Notes": "Previous ISO country name: Saint Kitts-Nevis-Anguilla"
+ },
+ {
+   "Code": "KP",
+   "Country name": "Korea",
+   "Year": 1974,
+   "ccTLD": ".kp",
+   "ISO 3166-2": "ISO 3166-2:KP",
+   "Notes": "ISO country name follows UN designation (common name: North Korea)"
+ },
+ {
+   "Code": "KR",
+   "Country name": "Korea, Republic of",
+   "Year": 1974,
+   "ccTLD": ".kr",
+   "ISO 3166-2": "ISO 3166-2:KR",
+   "Notes": "ISO country name follows UN designation (common name: South Korea)"
+ },
+ {
+   "Code": "KW",
+   "Country name": "Kuwait",
+   "Year": 1974,
+   "ccTLD": ".kw",
+   "ISO 3166-2": "ISO 3166-2:KW",
+   "Notes": ""
+ },
+ {
+   "Code": "KY",
+   "Country name": "Cayman Islands",
+   "Year": 1974,
+   "ccTLD": ".ky",
+   "ISO 3166-2": "ISO 3166-2:KY",
+   "Notes": ""
+ },
+ {
+   "Code": "KZ",
+   "Country name": "Kazakhstan",
+   "Year": 1992,
+   "ccTLD": ".kz",
+   "ISO 3166-2": "ISO 3166-2:KZ",
+   "Notes": "Previous ISO country name: Kazakstan"
+ },
+ {
+   "Code": "LA",
+   "Country name": "Lao",
+   "Year": 1974,
+   "ccTLD": ".la",
+   "ISO 3166-2": "ISO 3166-2:LA",
+   "Notes": "ISO country name follows UN designation (common name: Laos)"
+ },
+ {
+   "Code": "LB",
+   "Country name": "Lebanon",
+   "Year": 1974,
+   "ccTLD": ".lb",
+   "ISO 3166-2": "ISO 3166-2:LB",
+   "Notes": ""
+ },
+ {
+   "Code": "LC",
+   "Country name": "Saint Lucia",
+   "Year": 1974,
+   "ccTLD": ".lc",
+   "ISO 3166-2": "ISO 3166-2:LC",
+   "Notes": ""
+ },
+ {
+   "Code": "LI",
+   "Country name": "Liechtenstein",
+   "Year": 1974,
+   "ccTLD": ".li",
+   "ISO 3166-2": "ISO 3166-2:LI",
+   "Notes": ""
+ },
+ {
+   "Code": "LK",
+   "Country name": "Sri Lanka",
+   "Year": 1974,
+   "ccTLD": ".lk",
+   "ISO 3166-2": "ISO 3166-2:LK",
+   "Notes": ""
+ },
+ {
+   "Code": "LR",
+   "Country name": "Liberia",
+   "Year": 1974,
+   "ccTLD": ".lr",
+   "ISO 3166-2": "ISO 3166-2:LR",
+   "Notes": ""
+ },
+ {
+   "Code": "LS",
+   "Country name": "Lesotho",
+   "Year": 1974,
+   "ccTLD": ".ls",
+   "ISO 3166-2": "ISO 3166-2:LS",
+   "Notes": ""
+ },
+ {
+   "Code": "LT",
+   "Country name": "Lithuania",
+   "Year": 1992,
+   "ccTLD": ".lt",
+   "ISO 3166-2": "ISO 3166-2:LT",
+   "Notes": ""
+ },
+ {
+   "Code": "LU",
+   "Country name": "Luxembourg",
+   "Year": 1974,
+   "ccTLD": ".lu",
+   "ISO 3166-2": "ISO 3166-2:LU",
+   "Notes": ""
+ },
+ {
+   "Code": "LV",
+   "Country name": "Latvia",
+   "Year": 1992,
+   "ccTLD": ".lv",
+   "ISO 3166-2": "ISO 3166-2:LV",
+   "Notes": ""
+ },
+ {
+   "Code": "LY",
+   "Country name": "Libya",
+   "Year": 1974,
+   "ccTLD": ".ly",
+   "ISO 3166-2": "ISO 3166-2:LY",
+   "Notes": "Previous ISO country name: Libyan Arab Jamahiriya"
+ },
+ {
+   "Code": "MA",
+   "Country name": "Morocco",
+   "Year": 1974,
+   "ccTLD": ".ma",
+   "ISO 3166-2": "ISO 3166-2:MA",
+   "Notes": "Code taken from name in French: Maroc"
+ },
+ {
+   "Code": "MC",
+   "Country name": "Monaco",
+   "Year": 1974,
+   "ccTLD": ".mc",
+   "ISO 3166-2": "ISO 3166-2:MC",
+   "Notes": ""
+ },
+ {
+   "Code": "MD",
+   "Country name": "Moldova, Republic of",
+   "Year": 1992,
+   "ccTLD": ".md",
+   "ISO 3166-2": "ISO 3166-2:MD",
+   "Notes": "ISO country name follows UN designation (common name and previous ISO country name: Moldova)"
+ },
+ {
+   "Code": "ME",
+   "Country name": "Montenegro",
+   "Year": 2006,
+   "ccTLD": ".me",
+   "ISO 3166-2": "ISO 3166-2:ME",
+   "Notes": ""
+ },
+ {
+   "Code": "MF",
+   "Country name": "Saint Martin (French part)",
+   "Year": 2007,
+   "ccTLD": ".mf",
+   "ISO 3166-2": "ISO 3166-2:MF",
+   "Notes": "The Dutch part of Saint Martin island is assigned code SX"
+ },
+ {
+   "Code": "MG",
+   "Country name": "Madagascar",
+   "Year": 1974,
+   "ccTLD": ".mg",
+   "ISO 3166-2": "ISO 3166-2:MG",
+   "Notes": ""
+ },
+ {
+   "Code": "MH",
+   "Country name": "Marshall Islands",
+   "Year": 1986,
+   "ccTLD": ".mh",
+   "ISO 3166-2": "ISO 3166-2:MH",
+   "Notes": ""
+ },
+ {
+   "Code": "MK",
+   "Country name": "North Macedonia",
+   "Year": 1993,
+   "ccTLD": ".mk",
+   "ISO 3166-2": "ISO 3166-2:MK",
+   "Notes": "Code taken from name in Macedonian: Severna Makedonija\nPrevious ISO country name: Macedonia, The Former Yugoslav Republic of"
+ },
+ {
+   "Code": "ML",
+   "Country name": "Mali",
+   "Year": 1974,
+   "ccTLD": ".ml",
+   "ISO 3166-2": "ISO 3166-2:ML",
+   "Notes": ""
+ },
+ {
+   "Code": "MM",
+   "Country name": "Myanmar",
+   "Year": 1989,
+   "ccTLD": ".mm",
+   "ISO 3166-2": "ISO 3166-2:MM",
+   "Notes": "Name changed from Burma (BU)"
+ },
+ {
+   "Code": "MN",
+   "Country name": "Mongolia",
+   "Year": 1974,
+   "ccTLD": ".mn",
+   "ISO 3166-2": "ISO 3166-2:MN",
+   "Notes": ""
+ },
+ {
+   "Code": "MO",
+   "Country name": "Macao",
+   "Year": 1974,
+   "ccTLD": ".mo",
+   "ISO 3166-2": "ISO 3166-2:MO",
+   "Notes": "Previous ISO country name: Macau"
+ },
+ {
+   "Code": "MP",
+   "Country name": "Northern Mariana Islands",
+   "Year": 1986,
+   "ccTLD": ".mp",
+   "ISO 3166-2": "ISO 3166-2:MP",
+   "Notes": ""
+ },
+ {
+   "Code": "MQ",
+   "Country name": "Martinique",
+   "Year": 1974,
+   "ccTLD": ".mq",
+   "ISO 3166-2": "ISO 3166-2:MQ",
+   "Notes": ""
+ },
+ {
+   "Code": "MR",
+   "Country name": "Mauritania",
+   "Year": 1974,
+   "ccTLD": ".mr",
+   "ISO 3166-2": "ISO 3166-2:MR",
+   "Notes": ""
+ },
+ {
+   "Code": "MS",
+   "Country name": "Montserrat",
+   "Year": 1974,
+   "ccTLD": ".ms",
+   "ISO 3166-2": "ISO 3166-2:MS",
+   "Notes": ""
+ },
+ {
+   "Code": "MT",
+   "Country name": "Malta",
+   "Year": 1974,
+   "ccTLD": ".mt",
+   "ISO 3166-2": "ISO 3166-2:MT",
+   "Notes": ""
+ },
+ {
+   "Code": "MU",
+   "Country name": "Mauritius",
+   "Year": 1974,
+   "ccTLD": ".mu",
+   "ISO 3166-2": "ISO 3166-2:MU",
+   "Notes": ""
+ },
+ {
+   "Code": "MV",
+   "Country name": "Maldives",
+   "Year": 1974,
+   "ccTLD": ".mv",
+   "ISO 3166-2": "ISO 3166-2:MV",
+   "Notes": ""
+ },
+ {
+   "Code": "MW",
+   "Country name": "Malawi",
+   "Year": 1974,
+   "ccTLD": ".mw",
+   "ISO 3166-2": "ISO 3166-2:MW",
+   "Notes": ""
+ },
+ {
+   "Code": "MX",
+   "Country name": "Mexico",
+   "Year": 1974,
+   "ccTLD": ".mx",
+   "ISO 3166-2": "ISO 3166-2:MX",
+   "Notes": ""
+ },
+ {
+   "Code": "MY",
+   "Country name": "Malaysia",
+   "Year": 1974,
+   "ccTLD": ".my",
+   "ISO 3166-2": "ISO 3166-2:MY",
+   "Notes": ""
+ },
+ {
+   "Code": "MZ",
+   "Country name": "Mozambique",
+   "Year": 1974,
+   "ccTLD": ".mz",
+   "ISO 3166-2": "ISO 3166-2:MZ",
+   "Notes": ""
+ },
+ {
+   "Code": "NA",
+   "Country name": "Namibia",
+   "Year": 1974,
+   "ccTLD": ".na",
+   "ISO 3166-2": "ISO 3166-2:NA",
+   "Notes": ""
+ },
+ {
+   "Code": "NC",
+   "Country name": "New Caledonia",
+   "Year": 1974,
+   "ccTLD": ".nc",
+   "ISO 3166-2": "ISO 3166-2:NC",
+   "Notes": ""
+ },
+ {
+   "Code": "NE",
+   "Country name": "Niger",
+   "Year": 1974,
+   "ccTLD": ".ne",
+   "ISO 3166-2": "ISO 3166-2:NE",
+   "Notes": ""
+ },
+ {
+   "Code": "NF",
+   "Country name": "Norfolk Island",
+   "Year": 1974,
+   "ccTLD": ".nf",
+   "ISO 3166-2": "ISO 3166-2:NF",
+   "Notes": ""
+ },
+ {
+   "Code": "NG",
+   "Country name": "Nigeria",
+   "Year": 1974,
+   "ccTLD": ".ng",
+   "ISO 3166-2": "ISO 3166-2:NG",
+   "Notes": ""
+ },
+ {
+   "Code": "NI",
+   "Country name": "Nicaragua",
+   "Year": 1974,
+   "ccTLD": ".ni",
+   "ISO 3166-2": "ISO 3166-2:NI",
+   "Notes": ""
+ },
+ {
+   "Code": "NL",
+   "Country name": "Netherlands",
+   "Year": 1974,
+   "ccTLD": ".nl",
+   "ISO 3166-2": "ISO 3166-2:NL",
+   "Notes": "Officially includes the islands Bonaire, Saint Eustatius and Saba, which also have code BQ in ISO 3166-1. Within ISO 3166-2, Aruba (AW), Curaçao (CW), and Sint Maarten (SX) are also coded as subdivisions of NL.[18]"
+ },
+ {
+   "Code": "NO",
+   "Country name": "Norway",
+   "Year": 1974,
+   "ccTLD": ".no",
+   "ISO 3166-2": "ISO 3166-2:NO",
+   "Notes": ""
+ },
+ {
+   "Code": "NP",
+   "Country name": "Nepal",
+   "Year": 1974,
+   "ccTLD": ".np",
+   "ISO 3166-2": "ISO 3166-2:NP",
+   "Notes": ""
+ },
+ {
+   "Code": "NR",
+   "Country name": "Nauru",
+   "Year": 1974,
+   "ccTLD": ".nr",
+   "ISO 3166-2": "ISO 3166-2:NR",
+   "Notes": ""
+ },
+ {
+   "Code": "NU",
+   "Country name": "Niue",
+   "Year": 1974,
+   "ccTLD": ".nu",
+   "ISO 3166-2": "ISO 3166-2:NU",
+   "Notes": ""
+ },
+ {
+   "Code": "NZ",
+   "Country name": "New Zealand",
+   "Year": 1974,
+   "ccTLD": ".nz",
+   "ISO 3166-2": "ISO 3166-2:NZ",
+   "Notes": ""
+ },
+ {
+   "Code": "OM",
+   "Country name": "Oman",
+   "Year": 1974,
+   "ccTLD": ".om",
+   "ISO 3166-2": "ISO 3166-2:OM",
+   "Notes": ""
+ },
+ {
+   "Code": "PA",
+   "Country name": "Panama",
+   "Year": 1974,
+   "ccTLD": ".pa",
+   "ISO 3166-2": "ISO 3166-2:PA",
+   "Notes": ""
+ },
+ {
+   "Code": "PE",
+   "Country name": "Peru",
+   "Year": 1974,
+   "ccTLD": ".pe",
+   "ISO 3166-2": "ISO 3166-2:PE",
+   "Notes": ""
+ },
+ {
+   "Code": "PF",
+   "Country name": "French Polynesia",
+   "Year": 1974,
+   "ccTLD": ".pf",
+   "ISO 3166-2": "ISO 3166-2:PF",
+   "Notes": "Code taken from name in French: Polynésie française"
+ },
+ {
+   "Code": "PG",
+   "Country name": "Papua New Guinea",
+   "Year": 1974,
+   "ccTLD": ".pg",
+   "ISO 3166-2": "ISO 3166-2:PG",
+   "Notes": ""
+ },
+ {
+   "Code": "PH",
+   "Country name": "Philippines",
+   "Year": 1974,
+   "ccTLD": ".ph",
+   "ISO 3166-2": "ISO 3166-2:PH",
+   "Notes": ""
+ },
+ {
+   "Code": "PK",
+   "Country name": "Pakistan",
+   "Year": 1974,
+   "ccTLD": ".pk",
+   "ISO 3166-2": "ISO 3166-2:PK",
+   "Notes": ""
+ },
+ {
+   "Code": "PL",
+   "Country name": "Poland",
+   "Year": 1974,
+   "ccTLD": ".pl",
+   "ISO 3166-2": "ISO 3166-2:PL",
+   "Notes": ""
+ },
+ {
+   "Code": "PM",
+   "Country name": "Saint Pierre and Miquelon",
+   "Year": 1974,
+   "ccTLD": ".pm",
+   "ISO 3166-2": "ISO 3166-2:PM",
+   "Notes": ""
+ },
+ {
+   "Code": "PN",
+   "Country name": "Pitcairn",
+   "Year": 1974,
+   "ccTLD": ".pn",
+   "ISO 3166-2": "ISO 3166-2:PN",
+   "Notes": ""
+ },
+ {
+   "Code": "PR",
+   "Country name": "Puerto Rico",
+   "Year": 1974,
+   "ccTLD": ".pr",
+   "ISO 3166-2": "ISO 3166-2:PR",
+   "Notes": ""
+ },
+ {
+   "Code": "PS",
+   "Country name": "Palestine, State of",
+   "Year": 1999,
+   "ccTLD": ".ps",
+   "ISO 3166-2": "ISO 3166-2:PS",
+   "Notes": "Previous ISO country name: Palestinian Territory, Occupied\n Consists of the West Bank and the Gaza Strip"
+ },
+ {
+   "Code": "PT",
+   "Country name": "Portugal",
+   "Year": 1974,
+   "ccTLD": ".pt",
+   "ISO 3166-2": "ISO 3166-2:PT",
+   "Notes": ""
+ },
+ {
+   "Code": "PW",
+   "Country name": "Palau",
+   "Year": 1986,
+   "ccTLD": ".pw",
+   "ISO 3166-2": "ISO 3166-2:PW",
+   "Notes": ""
+ },
+ {
+   "Code": "PY",
+   "Country name": "Paraguay",
+   "Year": 1974,
+   "ccTLD": ".py",
+   "ISO 3166-2": "ISO 3166-2:PY",
+   "Notes": ""
+ },
+ {
+   "Code": "QA",
+   "Country name": "Qatar",
+   "Year": 1974,
+   "ccTLD": ".qa",
+   "ISO 3166-2": "ISO 3166-2:QA",
+   "Notes": ""
+ },
+ {
+   "Code": "RE",
+   "Country name": "Réunion",
+   "Year": 1974,
+   "ccTLD": ".re",
+   "ISO 3166-2": "ISO 3166-2:RE",
+   "Notes": ""
+ },
+ {
+   "Code": "RO",
+   "Country name": "Romania",
+   "Year": 1974,
+   "ccTLD": ".ro",
+   "ISO 3166-2": "ISO 3166-2:RO",
+   "Notes": ""
+ },
+ {
+   "Code": "RS",
+   "Country name": "Serbia",
+   "Year": 2006,
+   "ccTLD": ".rs",
+   "ISO 3166-2": "ISO 3166-2:RS",
+   "Notes": "Republic of Serbia"
+ },
+ {
+   "Code": "RU",
+   "Country name": "Russian Federation",
+   "Year": 1992,
+   "ccTLD": ".ru",
+   "ISO 3166-2": "ISO 3166-2:RU",
+   "Notes": "ISO country name follows UN designation (common name: Russia)"
+ },
+ {
+   "Code": "RW",
+   "Country name": "Rwanda",
+   "Year": 1974,
+   "ccTLD": ".rw",
+   "ISO 3166-2": "ISO 3166-2:RW",
+   "Notes": ""
+ },
+ {
+   "Code": "SA",
+   "Country name": "Saudi Arabia",
+   "Year": 1974,
+   "ccTLD": ".sa",
+   "ISO 3166-2": "ISO 3166-2:SA",
+   "Notes": ""
+ },
+ {
+   "Code": "SB",
+   "Country name": "Solomon Islands",
+   "Year": 1974,
+   "ccTLD": ".sb",
+   "ISO 3166-2": "ISO 3166-2:SB",
+   "Notes": "Code taken from former name: British Solomon Islands"
+ },
+ {
+   "Code": "SC",
+   "Country name": "Seychelles",
+   "Year": 1974,
+   "ccTLD": ".sc",
+   "ISO 3166-2": "ISO 3166-2:SC",
+   "Notes": ""
+ },
+ {
+   "Code": "SD",
+   "Country name": "Sudan",
+   "Year": 1974,
+   "ccTLD": ".sd",
+   "ISO 3166-2": "ISO 3166-2:SD",
+   "Notes": ""
+ },
+ {
+   "Code": "SE",
+   "Country name": "Sweden",
+   "Year": 1974,
+   "ccTLD": ".se",
+   "ISO 3166-2": "ISO 3166-2:SE",
+   "Notes": ""
+ },
+ {
+   "Code": "SG",
+   "Country name": "Singapore",
+   "Year": 1974,
+   "ccTLD": ".sg",
+   "ISO 3166-2": "ISO 3166-2:SG",
+   "Notes": ""
+ },
+ {
+   "Code": "SH",
+   "Country name": "Saint Helena",
+   "Year": 1974,
+   "ccTLD": ".sh",
+   "ISO 3166-2": "ISO 3166-2:SH",
+   "Notes": "Previous ISO country name: Saint Helena"
+ },
+ {
+   "Code": "SI",
+   "Country name": "Slovenia",
+   "Year": 1992,
+   "ccTLD": ".si",
+   "ISO 3166-2": "ISO 3166-2:SI",
+   "Notes": ""
+ },
+ {
+   "Code": "SJ",
+   "Country name": "Svalbard and Jan Mayen",
+   "Year": 1974,
+   "ccTLD": ".sj",
+   "ISO 3166-2": "ISO 3166-2:SJ",
+   "Notes": "Consists of two arctic territories of Norway: Svalbard and Jan Mayen"
+ },
+ {
+   "Code": "SK",
+   "Country name": "Slovakia",
+   "Year": 1993,
+   "ccTLD": ".sk",
+   "ISO 3166-2": "ISO 3166-2:SK",
+   "Notes": "SK previously represented Sikkim"
+ },
+ {
+   "Code": "SL",
+   "Country name": "Sierra Leone",
+   "Year": 1974,
+   "ccTLD": ".sl",
+   "ISO 3166-2": "ISO 3166-2:SL",
+   "Notes": ""
+ },
+ {
+   "Code": "SM",
+   "Country name": "San Marino",
+   "Year": 1974,
+   "ccTLD": ".sm",
+   "ISO 3166-2": "ISO 3166-2:SM",
+   "Notes": ""
+ },
+ {
+   "Code": "SN",
+   "Country name": "Senegal",
+   "Year": 1974,
+   "ccTLD": ".sn",
+   "ISO 3166-2": "ISO 3166-2:SN",
+   "Notes": ""
+ },
+ {
+   "Code": "SO",
+   "Country name": "Somalia",
+   "Year": 1974,
+   "ccTLD": ".so",
+   "ISO 3166-2": "ISO 3166-2:SO",
+   "Notes": ""
+ },
+ {
+   "Code": "SR",
+   "Country name": "Suriname",
+   "Year": 1974,
+   "ccTLD": ".sr",
+   "ISO 3166-2": "ISO 3166-2:SR",
+   "Notes": ""
+ },
+ {
+   "Code": "SS",
+   "Country name": "South Sudan",
+   "Year": 2011,
+   "ccTLD": ".ss",
+   "ISO 3166-2": "ISO 3166-2:SS",
+   "Notes": ""
+ },
+ {
+   "Code": "ST",
+   "Country name": "Sao Tome and Principe",
+   "Year": 1974,
+   "ccTLD": ".st",
+   "ISO 3166-2": "ISO 3166-2:ST",
+   "Notes": ""
+ },
+ {
+   "Code": "SV",
+   "Country name": "El Salvador",
+   "Year": 1974,
+   "ccTLD": ".sv",
+   "ISO 3166-2": "ISO 3166-2:SV",
+   "Notes": ""
+ },
+ {
+   "Code": "SX",
+   "Country name": "Sint Maarten (Dutch part)",
+   "Year": 2010,
+   "ccTLD": ".sx",
+   "ISO 3166-2": "ISO 3166-2:SX",
+   "Notes": "The French part of Saint Martin island is assigned code MF"
+ },
+ {
+   "Code": "SY",
+   "Country name": "Syrian Arab Republic",
+   "Year": 1974,
+   "ccTLD": ".sy",
+   "ISO 3166-2": "ISO 3166-2:SY",
+   "Notes": "ISO country name follows UN designation (common name: Syria)"
+ },
+ {
+   "Code": "SZ",
+   "Country name": "Eswatini",
+   "Year": 1974,
+   "ccTLD": ".sz",
+   "ISO 3166-2": "ISO 3166-2:SZ",
+   "Notes": "Previous ISO country name: Swaziland"
+ },
+ {
+   "Code": "TC",
+   "Country name": "Turks and Caicos Islands",
+   "Year": 1974,
+   "ccTLD": ".tc",
+   "ISO 3166-2": "ISO 3166-2:TC",
+   "Notes": ""
+ },
+ {
+   "Code": "TD",
+   "Country name": "Chad",
+   "Year": 1974,
+   "ccTLD": ".td",
+   "ISO 3166-2": "ISO 3166-2:TD",
+   "Notes": "Code taken from name in French: Tchad"
+ },
+ {
+   "Code": "TF",
+   "Country name": "French Southern Territories",
+   "Year": 1979,
+   "ccTLD": ".tf",
+   "ISO 3166-2": "ISO 3166-2:TF",
+   "Notes": "Covers the French Southern and Antarctic Lands except Adélie Land\n Code taken from name in French: Terres australes françaises"
+ },
+ {
+   "Code": "TG",
+   "Country name": "Togo",
+   "Year": 1974,
+   "ccTLD": ".tg",
+   "ISO 3166-2": "ISO 3166-2:TG",
+   "Notes": ""
+ },
+ {
+   "Code": "TH",
+   "Country name": "Thailand",
+   "Year": 1974,
+   "ccTLD": ".th",
+   "ISO 3166-2": "ISO 3166-2:TH",
+   "Notes": ""
+ },
+ {
+   "Code": "TJ",
+   "Country name": "Tajikistan",
+   "Year": 1992,
+   "ccTLD": ".tj",
+   "ISO 3166-2": "ISO 3166-2:TJ",
+   "Notes": ""
+ },
+ {
+   "Code": "TK",
+   "Country name": "Tokelau",
+   "Year": 1974,
+   "ccTLD": ".tk",
+   "ISO 3166-2": "ISO 3166-2:TK",
+   "Notes": ""
+ },
+ {
+   "Code": "TL",
+   "Country name": "Timor-Leste",
+   "Year": 2002,
+   "ccTLD": ".tl",
+   "ISO 3166-2": "ISO 3166-2:TL",
+   "Notes": "Name changed from East Timor (TP)"
+ },
+ {
+   "Code": "TM",
+   "Country name": "Turkmenistan",
+   "Year": 1992,
+   "ccTLD": ".tm",
+   "ISO 3166-2": "ISO 3166-2:TM",
+   "Notes": ""
+ },
+ {
+   "Code": "TN",
+   "Country name": "Tunisia",
+   "Year": 1974,
+   "ccTLD": ".tn",
+   "ISO 3166-2": "ISO 3166-2:TN",
+   "Notes": ""
+ },
+ {
+   "Code": "TO",
+   "Country name": "Tonga",
+   "Year": 1974,
+   "ccTLD": ".to",
+   "ISO 3166-2": "ISO 3166-2:TO",
+   "Notes": ""
+ },
+ {
+   "Code": "TR",
+   "Country name": "Turkey",
+   "Year": 1974,
+   "ccTLD": ".tr",
+   "ISO 3166-2": "ISO 3166-2:TR",
+   "Notes": ""
+ },
+ {
+   "Code": "TT",
+   "Country name": "Trinidad and Tobago",
+   "Year": 1974,
+   "ccTLD": ".tt",
+   "ISO 3166-2": "ISO 3166-2:TT",
+   "Notes": ""
+ },
+ {
+   "Code": "TV",
+   "Country name": "Tuvalu",
+   "Year": 1977,
+   "ccTLD": ".tv",
+   "ISO 3166-2": "ISO 3166-2:TV",
+   "Notes": ""
+ },
+ {
+   "Code": "TW",
+   "Country name": "Taiwan, Province of China",
+   "Year": 1974,
+   "ccTLD": ".tw",
+   "ISO 3166-2": "ISO 3166-2:TW",
+   "Notes": "Covers the current jurisdiction of the Republic of China\n ISO country name follows UN designation (due to political status of Taiwan within the UN)[17] (common name: Taiwan)"
+ },
+ {
+   "Code": "TZ",
+   "Country name": "Tanzania",
+   "Year": 1974,
+   "ccTLD": ".tz",
+   "ISO 3166-2": "ISO 3166-2:TZ",
+   "Notes": "ISO country name follows UN designation (common name: Tanzania)"
+ },
+ {
+   "Code": "UA",
+   "Country name": "Ukraine",
+   "Year": 1974,
+   "ccTLD": ".ua",
+   "ISO 3166-2": "ISO 3166-2:UA",
+   "Notes": "Previous ISO country name: Ukrainian SSR\n Code assigned as the country was already a UN member since 1945[14]"
+ },
+ {
+   "Code": "UG",
+   "Country name": "Uganda",
+   "Year": 1974,
+   "ccTLD": ".ug",
+   "ISO 3166-2": "ISO 3166-2:UG",
+   "Notes": ""
+ },
+ {
+   "Code": "UM",
+   "Country name": "United States",
+   "Year": 1986,
+   "ccTLD": "",
+   "ISO 3166-2": "ISO 3166-2:UM",
+   "Notes": "Consists of nine minor insular areas of the United States: Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Islands, Navassa Island, Palmyra Atoll, and Wake Island\n.um ccTLD was revoked in 2007[19]"
+ },
+ {
+   "Code": "US",
+   "Country name": "United States of America",
+   "Year": 1974,
+   "ccTLD": ".us",
+   "ISO 3166-2": "ISO 3166-2:US",
+   "Notes": ""
+ },
+ {
+   "Code": "UY",
+   "Country name": "Uruguay",
+   "Year": 1974,
+   "ccTLD": ".uy",
+   "ISO 3166-2": "ISO 3166-2:UY",
+   "Notes": ""
+ },
+ {
+   "Code": "UZ",
+   "Country name": "Uzbekistan",
+   "Year": 1992,
+   "ccTLD": ".uz",
+   "ISO 3166-2": "ISO 3166-2:UZ",
+   "Notes": ""
+ },
+ {
+   "Code": "VA",
+   "Country name": "Holy See",
+   "Year": 1974,
+   "ccTLD": ".va",
+   "ISO 3166-2": "ISO 3166-2:VA",
+   "Notes": "Covers Vatican City, territory of the Holy See\n Previous ISO country name: Vatican City State (Holy See)"
+ },
+ {
+   "Code": "VC",
+   "Country name": "Vincent and the Grenadines",
+   "Year": 1974,
+   "ccTLD": ".vc",
+   "ISO 3166-2": "ISO 3166-2:VC",
+   "Notes": ""
+ },
+ {
+   "Code": "VE",
+   "Country name": "Venezuela",
+   "Year": 1974,
+   "ccTLD": ".ve",
+   "ISO 3166-2": "ISO 3166-2:VE",
+   "Notes": "ISO country name follows UN designation (common name and previous ISO country name: Venezuela)"
+ },
+ {
+   "Code": "VG",
+   "Country name": "Virgin Islands (British)",
+   "Year": 1974,
+   "ccTLD": ".vg",
+   "ISO 3166-2": "ISO 3166-2:VG",
+   "Notes": ""
+ },
+ {
+   "Code": "VI",
+   "Country name": "Virgin Islands (U.S.)",
+   "Year": 1974,
+   "ccTLD": ".vi",
+   "ISO 3166-2": "ISO 3166-2:VI",
+   "Notes": ""
+ },
+ {
+   "Code": "VN",
+   "Country name": "Viet Nam",
+   "Year": 1974,
+   "ccTLD": ".vn",
+   "ISO 3166-2": "ISO 3166-2:VN",
+   "Notes": "ISO country name follows UN designation (common name: Vietnam) Code used for Republic of Viet Nam (Common Name:South Vietnam) before 1977"
+ },
+ {
+   "Code": "VU",
+   "Country name": "Vanuatu",
+   "Year": 1980,
+   "ccTLD": ".vu",
+   "ISO 3166-2": "ISO 3166-2:VU",
+   "Notes": "Name changed from New Hebrides (NH)"
+ },
+ {
+   "Code": "WF",
+   "Country name": "Wallis and Futuna",
+   "Year": 1974,
+   "ccTLD": ".wf",
+   "ISO 3166-2": "ISO 3166-2:WF",
+   "Notes": ""
+ },
+ {
+   "Code": "WS",
+   "Country name": "Samoa",
+   "Year": 1974,
+   "ccTLD": ".ws",
+   "ISO 3166-2": "ISO 3166-2:WS",
+   "Notes": "Code taken from former name: Western Samoa"
+ },
+ {
+   "Code": "YE",
+   "Country name": "Yemen",
+   "Year": 1974,
+   "ccTLD": ".ye",
+   "ISO 3166-2": "ISO 3166-2:YE",
+   "Notes": "Previous ISO country name: Yemen, Republic of\n Code used for North Yemen before 1990"
+ },
+ {
+   "Code": "YT",
+   "Country name": "Mayotte",
+   "Year": 1993,
+   "ccTLD": ".yt",
+   "ISO 3166-2": "ISO 3166-2:YT",
+   "Notes": ""
+ },
+ {
+   "Code": "ZA",
+   "Country name": "South Africa",
+   "Year": 1974,
+   "ccTLD": ".za",
+   "ISO 3166-2": "ISO 3166-2:ZA",
+   "Notes": "Code taken from name in Dutch: Zuid-Afrika"
+ },
+ {
+   "Code": "ZM",
+   "Country name": "Zambia",
+   "Year": 1974,
+   "ccTLD": ".zm",
+   "ISO 3166-2": "ISO 3166-2:ZM",
+   "Notes": ""
+ },
+ {
+   "Code": "ZW",
+   "Country name": "Zimbabwe",
+   "Year": 1980,
+   "ccTLD": ".zw",
+   "ISO 3166-2": "ISO 3166-2:ZW",
+   "Notes": "Name changed from Southern Rhodesia (RH)"
+ }
+]
