@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1597936062,
+	"version": 1597936931,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -39,7 +39,6 @@
 		"loading-logo.png",
 		"data-file.json",
 		"scroll.js",
-		"resize.js",
 		"countryiso.json",
 		"gethref.js",
 		"quote.js",
