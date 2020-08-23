@@ -12,7 +12,7 @@ var greetings = [
     , "You blocked? keep calm, you will be unblocked after a few hours."
     , "Use VPN can block your activities to generate proxies"
     , "Follow our rules so that your account activity isn't blocked."
-    , "Having problems? Try to contact us."
+    , "Having problems? Try to contact us https://p-store.net/conversations/S3M4RM3S3M."
 ];
 var greeting_id = Math.floor(Math.random() * greetings.length);
 document.getElementById('here').innerHTML = greetings[greeting_id];
