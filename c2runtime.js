@@ -33032,6 +33032,7 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Sprite.prototype.acts.LoadURL,
 	cr.plugins_.Sprite.prototype.acts.SetVisible,
 	cr.plugins_.Text.prototype.cnds.CompareInstanceVar,
+	cr.plugins_.Function.prototype.exps.Param,
 	cr.plugins_.c2loader.prototype.acts.SetSize,
 	cr.plugins_.c2loader.prototype.acts.SetY,
 	cr.plugins_.c2loader.prototype.exps.Y,
